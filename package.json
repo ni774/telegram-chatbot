@@ -9,6 +9,7 @@
   "author": "nikhil",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "telegraf": "^3.40.0"
   }
 }
